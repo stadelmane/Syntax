@@ -1,0 +1,21 @@
+[S
+  [NP he^]
+  [VP
+    [V' 
+      [V''
+        [V is]]
+      [AdjP 
+        [AdjP
+          [Adv as]
+          [AdjP
+            [Adj wealthy]
+          ]
+        ]
+        [CP
+          [CPM as]
+          [NP him^]
+        ]
+      ]
+    ]
+  ]
+]
