@@ -21,7 +21,7 @@
 ]
 
 [S
-  [NP he^]
+  [NP^ he]
   [VP
     [V' 
       [V''
@@ -29,8 +29,12 @@
       [NP
         [Art the]
         [N'
-          [N wealthiest]
+          [AdjP 
+            [Adj wealthiest]
+          ]
+          [N (person)]
         ]
       ]
     ]
   ]
+ ]
