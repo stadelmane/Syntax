@@ -57,3 +57,31 @@
     ]
   ]
  ]
+ 
+ 
+ 
+ 
+ [S
+  [NP he^]
+  [VP
+    [V' 
+      [V''
+        [V runs]]
+      [AdjP 
+        [AdjP
+          [Adv as]
+          [AdjP
+            [Adv astonishingly]
+            [AdjP 
+            [adj fast]
+            ]
+          ]
+        ]
+        [CP
+          [CPM as]
+          [NP him^]
+        ]
+      ]
+    ]
+  ]
+]
