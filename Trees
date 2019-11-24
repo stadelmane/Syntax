@@ -38,3 +38,22 @@
     ]
   ]
  ]
+ 
+ [S
+  [NP^ he]
+  [VP
+    [V' 
+      [V''
+        [V is]]
+      [NP
+        [Art a]
+        [N'
+          [AdjP 
+            [Adj wealthy]
+          ]
+          [N person]
+        ]
+      ]
+    ]
+  ]
+ ]
