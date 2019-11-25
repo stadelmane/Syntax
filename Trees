@@ -59,8 +59,7 @@
  ]
  
  
- 
- 
+ 1.)
  [S
   [NP he^]
   [VP
@@ -80,6 +79,39 @@
         [CP
           [CPM as]
           [NP him^]
+        ]
+      ]
+    ]
+  ]
+]
+
+2.)
+
+[S
+  [NP he^]
+  [VP
+    [V' 
+      [V''
+        [V is]
+      ]
+    [AdjP 
+      [AdjP 
+        [AdjP
+          [Adv as]
+          [Adj ambitious]
+        ]
+        [CP
+          [CPM as]
+          [NP^ Sam]
+        ]
+      ]
+      [conj but]
+      [AdjP 
+        [Adj wealtheier]
+        [CP
+          [CPM than]
+          [NP^ Sam]
+          ]
         ]
       ]
     ]
