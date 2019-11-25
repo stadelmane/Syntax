@@ -153,3 +153,74 @@
     ]
   ]
 ]
+
+
+1 alt.
+
+[S
+  [NP he^]
+  [VP
+    [V' 
+      [V''
+        [V runs]
+      ]
+    ]
+    [CP'
+      [CPM as]
+      [AdjP
+        [Adv astonishingly]
+        [AdjP
+          [Adj fast]
+        ]
+      ]
+      [CP''
+        [CPM as]
+        [NP him]
+      ]
+    ]
+  ]
+]
+
+2. alt
+
+[S
+  [NP John^]
+  [VP
+    [VP
+      [V' 
+        [V''
+          [V is]
+        ]
+      ]
+      [CP'
+        [CPM as]
+        [AdjP
+          [Adv incredibly]
+          [AdjP
+            [Adj wealthy]
+          ]
+        ]
+        [CP''
+          [CPM as]
+          [NP Sam]
+        ]
+      ]
+    ]
+    [conj but]
+    [VP
+      [V' 
+        [V''
+          [V has]
+        ]
+      ]
+      [CP'
+        [CPM less]
+        [NP liquid cash ^]
+        [CP''
+          [CPM (than)]
+          [NP (Sam)]
+        ]
+      ]
+    ]
+  ]
+]
