@@ -117,3 +117,37 @@
     ]
   ]
 ]
+
+3.)
+
+[S
+  [NP Jim^]
+  [VP
+    [V' 
+      [V''
+        [V is]]
+      [AdjP 
+        [AdjP
+          [Adv more]
+          [AdjP
+            [Adj frugal]
+          ]
+        ]
+        [CP
+          [CPM than]
+          [S 
+            [NP (he)]
+            [VP 
+              [V' 
+                [V'' 
+                  [V (was)]
+                ]
+              ]
+              [pp before]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]
