@@ -107,7 +107,9 @@
       ]
       [conj but]
       [AdjP 
-        [Adj wealthier]
+        [AdjP 
+          [Adj wealthier]
+         ]
         [CP
           [CPM than]
           [NP^ Sam]
