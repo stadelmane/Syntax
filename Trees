@@ -88,7 +88,7 @@
 2.)
 
 [S
-  [NP he^]
+  [NP John^]
   [VP
     [V' 
       [V''
@@ -107,7 +107,7 @@
       ]
       [conj but]
       [AdjP 
-        [Adj wealtheier]
+        [Adj wealthier]
         [CP
           [CPM than]
           [NP^ Sam]
